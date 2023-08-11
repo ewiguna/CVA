@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - CVA
+      - main-cva
   pull_request:
     types: [opened, synchronize, reopened]
 
