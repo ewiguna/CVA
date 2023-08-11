@@ -16,7 +16,7 @@
 // • Geology ==> OK
 // =====================================================//
 
-//tes sonarcube
+//tes sonarcube 1
 
 // Research boundary ==> Coastal Cisadane 
 Map.setCenter(106.5774, -6.0292, 10);
